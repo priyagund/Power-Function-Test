@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.powerfunction.PowerFunctionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-08T18:10:06" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.002">
+  <properties/>
+  <testcase name="givenMethod_IfNumberIsNegative_ShouldReturnResult" classname="com.powerfunction.PowerFunctionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
