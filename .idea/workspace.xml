@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57229806-e462-4c5a-b097-b4729967e065" name="Default Changelist" comment="" />
+    <list default="true" id="57229806-e462-4c5a-b097-b4729967e065" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.powerfunction.PowerFunctionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.powerfunction.PowerFunctionTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.powerfunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.powerfunction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.powerfunction.PowerFunctionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.powerfunction.PowerFunctionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/powerfunction/PowerFunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/powerfunction/PowerFunctionTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -35,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/powerfunction/PowerFunctionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="66">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,6 +69,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,28 +102,17 @@
             </path>
             <path>
               <item name="PowerFunction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PowerFunction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PowerFunction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PowerFunction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="PowerFunction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PowerFunction" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,27 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult">
-    <configuration name="PowerFunctionTest.givenMethodForFindingPowerOfNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.powerfunction.PowerFunctionTest.givenMethodForFindingPowerOfNumber&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.PowerFunctionTest.givenMethod_IfPowerIsNegative_ShouldReturnResult">
     <configuration name="PowerFunctionTest.givenMethodForIfNumberIsZero" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -157,12 +147,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PowerFunctionTest.givenMethodIfNumberIsNegative" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="PowerFunctionTest.givenMethodFor_FindingPowerOfNumber_ShouldReturnResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.powerfunction.PowerFunctionTest.givenMethodIfNumberIsNegative&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.powerfunction.PowerFunctionTest.givenMethodFor_FindingPowerOfNumber_ShouldReturnResult&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -217,13 +207,33 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="PowerFunctionTest.givenMethod_IfPowerIsNegative_ShouldReturnResult" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.powerfunction.PowerFunctionTest.givenMethod_IfPowerIsNegative_ShouldReturnResult&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" />
+        <item itemvalue="Gradle.PowerFunctionTest.givenMethod_IfPowerIsNegative_ShouldReturnResult" />
         <item itemvalue="Gradle.PowerFunctionTest.givenMethod_IfNumberIsZero_ShouldReturnResult" />
+        <item itemvalue="Gradle.PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" />
+        <item itemvalue="Gradle.PowerFunctionTest.givenMethodFor_FindingPowerOfNumber_ShouldReturnResult" />
         <item itemvalue="Gradle.PowerFunctionTest.givenMethodForIfNumberIsZero" />
-        <item itemvalue="Gradle.PowerFunctionTest.givenMethodIfNumberIsNegative" />
-        <item itemvalue="Gradle.PowerFunctionTest.givenMethodForFindingPowerOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -241,18 +251,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsZero_ShouldReturnResult - 2020.02.08 at 16h 07m 51s.xml">
-      <configuration name="PowerFunctionTest.givenMethod_IfNumberIsZero_ShouldReturnResult" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsNegative_ShouldReturnResult - 2020.02.08 at 16h 08m 00s.xml">
-      <configuration name="PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsNegative_ShouldReturnResult - 2020.02.08 at 16h 31m 15s.xml">
-      <configuration name="PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsNegative_ShouldReturnResult - 2020.02.08 at 23h 18m 45s.xml">
-      <configuration name="PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsZero_ShouldReturnResult - 2020.02.08 at 23h 18m 56s.xml">
       <configuration name="PowerFunctionTest.givenMethod_IfNumberIsZero_ShouldReturnResult" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -271,11 +269,23 @@
     <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsNegative_ShouldReturnResult - 2020.02.08 at 23h 40m 07s.xml">
       <configuration name="PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="PowerFunctionTest_givenMethodFor_FindingPowerOfNumber_ShouldReturnResult - 2020.02.09 at 14h 44m 20s.xml">
+      <configuration name="PowerFunctionTest.givenMethodFor_FindingPowerOfNumber_ShouldReturnResult" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsNegative_ShouldReturnResult - 2020.02.09 at 14h 44m 38s.xml">
+      <configuration name="PowerFunctionTest.givenMethod_IfNumberIsNegative_ShouldReturnResult" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PowerFunctionTest_givenMethod_IfNumberIsZero_ShouldReturnResult - 2020.02.09 at 14h 44m 42s.xml">
+      <configuration name="PowerFunctionTest.givenMethod_IfNumberIsZero_ShouldReturnResult" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="PowerFunctionTest_givenMethod_IfPowerIsNegative_ShouldReturnResult - 2020.02.09 at 14h 58m 51s.xml">
+      <configuration name="PowerFunctionTest.givenMethod_IfPowerIsNegative_ShouldReturnResult" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25778133" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -285,13 +295,13 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2792208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27850163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -316,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/powerfunction/PowerFunctionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="66">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

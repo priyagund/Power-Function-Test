@@ -13,7 +13,7 @@ public class PowerFunctionTest {
     }
 
     @Test
-    public void givenMethod_IfNumberIsNegative_ShouldReturnResult() {
+    public void givenMethod_IfBaseIsNegative_ShouldReturnResult() {
         PowerFunction powerFunction=new PowerFunction();
         int result=powerFunction.powerOfGivenNumber(-2,3);
         Assert.assertNotEquals(8,result);
@@ -23,6 +23,13 @@ public class PowerFunctionTest {
     public void givenMethod_IfNumberIsZero_ShouldReturnResult() {
         PowerFunction powerFunction=new PowerFunction();
         int result=powerFunction.powerOfGivenNumber(2,0);
+        Assert.assertEquals(1,result);
+    }
+
+    @Test
+    public void givenMethod_IfPowerIsNegative_ShouldReturnResult() {
+        PowerFunction powerFunction=new PowerFunction();
+        int result=powerFunction.powerOfGivenNumber(2,-3);
         Assert.assertEquals(1,result);
     }
 }
